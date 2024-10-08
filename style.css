@@ -1,0 +1,13 @@
+ul.circulo{
+    list-style-type: circle;
+}
+
+
+ol.letra_min{
+    list-style-type: lower-alpha;
+}
+
+ol.romano{
+    list-style-type: upper-roman;
+}
+
